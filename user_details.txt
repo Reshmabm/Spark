@@ -1,0 +1,7 @@
+Reshma,22-12-1997,35536,resmabm97@gmail.com,Karnataka
+Sanjana,26-04-1998,76362,sanjanaj@gmail.com,JammuKashmir
+Shrinidhi,04-07-1997,34571,shrinidhi@gmail.com,AndhraPradeshMadhumitha,05-09-1998,72763,madhumitha@gmail.com,TamilNaduNidhi,18-07-1997,53772,nidhi@gmail.com,GujaratSwathi,27-10-1995,56328,swathi@gmail.com,WestBengal
+Sangitha,05-01-1993,54489,sangitha@gmail.com,Rajasthan
+Ranjan,10-02-1995,96462,ranjan@gmail.com,Punjab
+Davor,04-08-1998,75421,davor@gmail.com,JammuKashmir
+Varun,09-09-1994,63546,varun@gmail.com,MaharashtraHari,15-02-1993,75464,hari@gmail.com,UttarPradesh
